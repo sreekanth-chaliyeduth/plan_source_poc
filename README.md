@@ -12,7 +12,7 @@ End-to-end UI automation of the PlanSource benefits flow:
 ---
 
 ## 2  Why it isn't 100 % green yet
-* Yesterday the partner-dev site began throwing **500/502** responses.  
+* Yesterday the test site began throwing server errors.  
 * React re-mounts swap element IDs during animations.  
 * Some elements are hidden by transient overlays, so clicks miss.  
 * Plan options change with location / salary; Faker data sometimes hits an invalid combo.
