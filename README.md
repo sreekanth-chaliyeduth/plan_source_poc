@@ -1,4 +1,4 @@
-# PlanSource UI Automation Framework
+# PlanSource UI Automation Framework - POC
 
 ## 1  What this does
 End-to-end UI automation of the PlanSource benefits flow:
