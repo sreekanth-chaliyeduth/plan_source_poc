@@ -78,8 +78,3 @@ This keeps the form happy, but random data can still trip plan-eligibility rules
 * Visual regression and basic perf hooks.
 
 ---
-
-Thanks for the opportunity.
-Happy to tighten the flow and add the API/PDF pieces once the test server stabilises or if more time opens up.
-
-```
