@@ -80,8 +80,6 @@ This keeps the form happy, but random data can still trip plan-eligibility rules
 ---
 
 Thanks for the opportunity.
-Happy to tighten the flow and add the API/PDF pieces once the dev server stabilises or if more time opens up.
+Happy to tighten the flow and add the API/PDF pieces once the test server stabilises or if more time opens up.
 
 ```
-
-Let me know if you'd like any final tweaks or extra sections.
